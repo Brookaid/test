@@ -27,3 +27,4 @@ CREATE TABLE pays (
     nom_pays varchar(50), 
     iso char(3) 
 ); 
+
