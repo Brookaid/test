@@ -1,5 +1,7 @@
 use Championnat;
 
+bye bye
+
 CREATE TABLE entraineur ( 
     id_entraineur integer NOT NULL, 
     id_equipe char(8) NOT NULL 
@@ -29,3 +31,4 @@ CREATE TABLE pays (
 ); 
 
 coucou
+
