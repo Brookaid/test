@@ -28,3 +28,4 @@ CREATE TABLE pays (
     iso char(3) 
 ); 
 
+coucou
